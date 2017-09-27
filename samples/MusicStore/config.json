@@ -1,0 +1,14 @@
+﻿{
+  "ApplicationInsights": {
+    "InstrumentationKey": "3d25f07e-c3c7-4732-b261-9d38e943892c"
+  },
+  "AppSettings": {
+    "SiteTitle": "ASP.NET MVC Music Store",
+    "CacheDbResults": true
+  },
+  "DefaultAdminUsername": "Administrator@test.com",
+  "DefaultAdminPassword": "YouShouldChangeThisPassword1!",
+  "ConnectionStrings": {
+    "SQL": "Server=(localdb)\\MSSQLLocalDB;Database=MusicStore;Trusted_Connection=True;MultipleActiveResultSets=true;Connect Timeout=30;"
+  }
+}
